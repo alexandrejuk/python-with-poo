@@ -1,4 +1,4 @@
-# Orientação a Objestos com Python para iniciantes
+# Orientação a Objetos com Python para iniciantes
 
 Estes conteúdo é baseado nas aulas dos professores, [Andrey Masiero](https://github.com/amasiero) e [Fabio Versolatto](https://www.linkedin.com/in/fabio-versolatto-a9740ba4/?originalSubdomain=br).
 
